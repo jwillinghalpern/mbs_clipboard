@@ -12,7 +12,7 @@ Converting FM objects to XML and back.
   - Tables
   - Fields
   - Layout Objects
-  - ValueLists
+  - Value Lists
   - Custom Functions
 - Optionally floats above other windows for easy access
 
