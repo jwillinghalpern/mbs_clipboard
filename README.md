@@ -1,6 +1,6 @@
 # MBS Clipboard
 
-Converting FM objects to XML and back.
+Convert FM objects to XML and back.
 
 ![MBS_Clipboard_Image](assets/MBS_Clipboard_Image.png)
 
