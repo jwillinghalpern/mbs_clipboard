@@ -7,14 +7,13 @@ Converting FM objects to XML and back.
 ## Features
 
 - Converts any FM object that can be copied:
-  - ScriptStep
-  - Script
-  - Table
-  - Field
-  - Layout12
-  - ValueList 
-  - CustomFunction
-  - Layout
+  - Script Steps
+  - Scripts
+  - Tables
+  - Fields
+  - Layout Objects
+  - ValueLists
+  - Custom Functions
 - Optionally floats above other windows for easy access
 
 ## Requirements
